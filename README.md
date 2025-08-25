@@ -4,9 +4,9 @@ A simple web-based calculator built with HTML, CSS, and JavaScript. This project
 
 🔗 Demo
 
-Check out the live demo here: Calculator Live Demo
+Check out the live demo here: Calculator Live Demo https://thalesmar.github.io/Calculator/
 
-🖼 Screenshot
+🖼 Screenshot screenshot/Screenshot 2025-08-25 043118.png
 
 ⚙️ Features
 
