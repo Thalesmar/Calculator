@@ -6,7 +6,7 @@ A simple web-based calculator built with HTML, CSS, and JavaScript. This project
 
 Check out the live demo here: Calculator Live Demo https://thalesmar.github.io/Calculator/
 
-🖼 Screenshot screenshot/Screenshot 2025-08-25 043118.png
+🖼 Screenshot ![image alt](https://github.com/Thalesmar/Calculator/blob/db2ec7ca9a6b6e39c57bb40bfba4a483b51e49c7/Screenshot%202025-08-25%20043118.png)
 
 ⚙️ Features
 
